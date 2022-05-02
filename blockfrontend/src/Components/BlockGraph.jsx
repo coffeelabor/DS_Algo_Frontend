@@ -1,5 +1,4 @@
 import React from "react";
-import UserMinerNodeForceGraph from "./UserMinerNodeForceGraph";
 import {Graph} from "react-d3-graph"
 
 
